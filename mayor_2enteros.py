@@ -15,6 +15,6 @@ else:
     if x > y:
         mayor = x
     else:
-         mayor = y
-#output
-print("El mayor entre " + str(x) + " y " + str(y) + " es " + str( mayor ))
+        mayor = y
+    #output
+    print("El mayor entre " + str(x) + " y " + str(y) + " es " + str(mayor))
